@@ -1,0 +1,7 @@
+# Aca puse el archivo y la carpeta que genera el sistema al correr
+# no hace falta que los commitee
+
+# DB local
+mensajes.db
+# cache de Python
+__pycache__/
